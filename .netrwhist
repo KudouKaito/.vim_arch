@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight'
+let g:netrw_dirhist_0='/home/kaito/Workspace/StudyNotes/EveryoneLearnIoT/4物联网关,汇聚回转'
+let g:netrw_dirhist_9='/home/kaito/.config/fcitx/pinyin'
+let g:netrw_dirhist_8='/home/kaito/.gradle'
+let g:netrw_dirhist_7='/etc/udev/rules.d'
+let g:netrw_dirhist_6='/usr/share/grub/themes/Tela'
+let g:netrw_dirhist_5='/usr/share/grub/themes'
+let g:netrw_dirhist_4='/usr/share/grub/themes/Tela'
+let g:netrw_dirhist_3='/usr/share/grub/themes'
+let g:netrw_dirhist_2='/home/kaito/.config/i3'
