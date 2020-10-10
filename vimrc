@@ -41,6 +41,9 @@ func! CompileRunGcc()
   elseif &filetype == 'c'
     exec "!cc % -o %<"
     exec "!time ./%<"
+  elseif &filetype == 'cpp'
+    exec "!g++ % -o %<"
+    exec "!time ./%<"
   endif
 endfunc
 " }}}
