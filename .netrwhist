@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =9
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/kaito/Workspace/killd/killd.c'
 let g:netrw_dirhist_9='/etc/profile.d'
 let g:netrw_dirhist_8='/home/kaito/CLionProjects/bitree/src/train/t3'
 let g:netrw_dirhist_7='/home/kaito/CLionProjects/bitree/src/train'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_4='/home/kaito/CLionProjects/contiuous_list_exp/CMakeLists.t
 let g:netrw_dirhist_3='/home/kaito/CLionProjects/linked_stack_class_exercise/src/step1'
 let g:netrw_dirhist_2='/home/kaito/CLionProjects/linked_list_class_exercise/step1'
 let g:netrw_dirhist_1='/sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight'
-let g:netrw_dirhist_0='/home/kaito/Workspace/StudyNotes/EveryoneLearnIoT/4物联网关,汇聚回转'
