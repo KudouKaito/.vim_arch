@@ -22,6 +22,10 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 set history=800
+"enable mouse
+"set mouse=a
+"disable mouse
+"set mouse=
 
 
 
